@@ -13,5 +13,5 @@ fn main() {
             replay = args.next().map(PathBuf::from);
         }
     }
-    theisle_overlay_lib::run(replay);
+    lachong_overlay_lib::run(replay);
 }
