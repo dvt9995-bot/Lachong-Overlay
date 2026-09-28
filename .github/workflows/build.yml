@@ -1,4 +1,4 @@
-name: Build L?c H?ng Overlay
+ï»¿name: Build L?c H?ng Overlay
 
 on:
   push:
@@ -34,6 +34,7 @@ jobs:
         with:
           tagName: v__VERSION__
           releaseName: 'L?c H?ng Overlay v__VERSION__'
-          releaseBody: 'Phiên b?n chính th?c c?a L?c H?ng Overlay (Tích h?p Live Map, Garage, IsleVOIP).'
+          releaseBody: 'Phiï¿½n b?n chï¿½nh th?c c?a L?c H?ng Overlay (Tï¿½ch h?p Live Map, Garage, IsleVOIP).'
           releaseDraft: false
           prerelease: false
+
